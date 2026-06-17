@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Shivansh Bajaj 👋
 
-<!--
-**Shivanshbajaj1/Shivanshbajaj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Learning Python, AI/ML and Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ AWS Enthusiast
+
+🌱 Currently improving DSA and Development Skills
+
+## Tech Stack
+
+- Python
+- HTML
+- CSS
+- Git & GitHub
+- AWS
+- SQL
+
+## Current Goals
+
+- Master DSA in Python
+- Build AI/ML Projects
+- Learn Cloud Computing
+- Contribute to Open Source
+
+## Projects
+
+- Python PBL
+- AWS Labs
+- Future Monkeytype Clone
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/shivansh-bajaj-a433b7371/
