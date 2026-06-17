@@ -34,3 +34,12 @@
 ## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/shivansh-bajaj-a433b7371/
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivanshbajaj1&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajaj1&layout=compact)
+
