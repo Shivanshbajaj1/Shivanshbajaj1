@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://chatgpt.com/s/m_6a37aa32c0408191913a8603db829ab2" width="100%"/>
+<img src="C:\Users\Shivansh\Downloads\ChatGPT Image Jun 21, 2026, 02_40_54 PM.png" width="100%"/>
 
 # 👋 Hi, I'm Shivansh Bajaj
 
