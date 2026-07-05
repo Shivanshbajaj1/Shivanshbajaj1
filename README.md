@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Shivanshbajaj1&color=blue)
 <div align="center"> 
   <img src="C:\Users\Shivansh\Downloads\ChatGPT Image Jun 21, 2026, 02_40_54 PM.png" width="100%"/> 
   
