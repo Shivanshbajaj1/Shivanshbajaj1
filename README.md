@@ -509,22 +509,6 @@ Personal portfolio showcasing projects, skills, certifications and experience.
 
 ---
 
-# 📈 Profile Summary
-
-```text
-👨‍💻 AI & Machine Learning Enthusiast
-
-🧠 Passionate about Computer Vision
-
-💻 Building intelligent software with Python
-
-☁️ Exploring Cloud Technologies
-
-🚀 Always Learning. Always Building.
-```
-
----
-
 <div align="center">
 
 ## ⭐ Thanks for Visiting!
