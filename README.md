@@ -1,15 +1,39 @@
 <div align="center">
 
+<img src="C:\Users\Shivansh\Downloads\ChatGPT Image Jul 7, 2026, 11_59_33 PM.png width="100%" />
+
+<div align="center">
+
 <img src="YOUR_BANNER_URL" width="100%" />
 
-# 👋 Hi, I'm Shivansh Bajaj
+# Shivansh Bajaj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+Progress;Computer+Vision+Developer;Python+Developer;Building+Orbit;Open+to+AI%2FML+Internships" />
+### AI • Machine Learning • Computer Vision
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;Computer+Vision+Developer;Python+Developer;Always+Learning+Something+New" />
+
+<p>
+<a href="https://github.com/Shivanshbajaj1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivansh-bajaj-a433b7371/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shivanshbajaj276@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ShivanshBajaj1/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Shivanshbajaj1&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
 
 </div>
-
 ---
 
 # 💻 Initializing ShivanshOS
