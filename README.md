@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="C:\Users\Shivansh\Downloads\ChatGPT Image Jul 7, 2026, 11_59_33 PM.png width="100%" />
-
-<div align="center">
-
 <img src="YOUR_BANNER_URL" width="100%" />
 
 # Shivansh Bajaj
@@ -13,6 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;Computer+Vision+Developer;Python+Developer;Always+Learning+Something+New" />
 
 <p>
+
 <a href="https://github.com/Shivanshbajaj1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -34,91 +31,63 @@
 <img src="https://komarev.com/ghpvc/?username=Shivanshbajaj1&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
 
 </div>
+
 ---
 
-# 💻 Initializing ShivanshOS
+# 🚀 About Me
 
 ```text
-> Booting AI Workspace...
-
-████████████████████ 100%
-
-Loading Projects...
-
-████████████████████ 100%
-
-Loading Skills...
-
-████████████████████ 100%
-
-Loading GitHub Dashboard...
-
-████████████████████ 100%
-
-System Ready.
-
-Welcome 👋
+👨‍💻 Name        : Shivansh Bajaj
+🎓 Degree      : B.Tech CSE (AI & ML)
+🧠 Focus       : Artificial Intelligence & Computer Vision
+💻 Languages   : Python • Java • C
+🌱 Learning    : AWS • Backend • DSA
+🎯 Goal        : AI/ML Engineer
 ```
+
+I'm passionate about building intelligent software that solves real-world problems through Artificial Intelligence and Machine Learning.
+
+Currently, I'm focused on Computer Vision, Backend Development, and Cloud technologies while continuously improving my software engineering skills through projects and hands-on learning.
 
 ---
 
-# 👨‍💻 About Me
-
-```yaml
-Name: Shivansh Bajaj
-
-Education:
-  B.Tech CSE (AI & ML)
-
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - Software Engineering
-
-Languages:
-  - Python
-  - Java
-  - C
-
-Currently Learning:
-  - Machine Learning
-  - Data Structures & Algorithms
-  - Backend Development
-  - AI Engineering
-```
-
-I'm passionate about building AI-powered software that solves real-world problems. My goal is to become an AI Engineer by combining strong software engineering fundamentals with practical machine learning experience.
-
----
-
-# 🎯 Current Mission
+# 🎯 2026 Focus
 
 - 🚀 Build **Orbit** into a production-ready productivity platform
-- 🤖 Develop impactful AI/ML applications
-- 💻 Solve 300+ DSA problems
+- 🤖 Develop impactful AI & Machine Learning applications
+- 💻 Solve **300+ LeetCode** problems
 - 🌍 Contribute to Open Source
 - 💼 Secure my first AI/ML Internship
 
 ---
 
-# 🧠 Tech Arsenal
+# ⚙️ Tech Stack
 
-## Languages
+### Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css&perline=5"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,linux,html,css&perline=9"/>
+
 </p>
 
-## AI & Machine Learning
+### AI & Machine Learning
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 </p>
+
+---
 
 ## Tools
 
