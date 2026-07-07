@@ -1,54 +1,229 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/main/banner.png" width="100%" alt="Banner"/>
+<img src="YOUR_BANNER_URL" width="100%" />
 
 # 👋 Hi, I'm Shivansh Bajaj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+the+Making;Python+Developer;Computer+Vision+Explorer;Building+Real-World+AI+Projects;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+Progress;Computer+Vision+Developer;Python+Developer;Building+Orbit;Open+to+AI%2FML+Internships" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Shivanshbajaj1&label=Profile+Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/Shivanshbajaj1?style=social"/>
-<img src="https://img.shields.io/github/stars/Shivanshbajaj1?style=social"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Shivanshbajaj1&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💻 Initializing ShivanshOS
 
-I'm a **B.Tech Computer Science (AI & ML)** student passionate about solving real-world problems with Artificial Intelligence.
+```text
+> Booting AI Workspace...
 
-I enjoy building production-ready projects using **Python, Machine Learning, Computer Vision, and Automation** while continuously improving my Data Structures & Algorithms skills.
+████████████████████ 100%
 
-My goal is to become an **AI Engineer** and contribute to impactful products that people use every day.
+Loading Projects...
+
+████████████████████ 100%
+
+Loading Skills...
+
+████████████████████ 100%
+
+Loading GitHub Dashboard...
+
+████████████████████ 100%
+
+System Ready.
+
+Welcome 👋
+```
 
 ---
 
-# 🔭 Currently Working On
+# 👨‍💻 About Me
 
-- 🚀 **Orbit** – AI-powered productivity platform
-- 🧠 Machine Learning Projects
-- 📚 Daily DSA Practice
-- ☁️ Learning Backend Development
-- 💼 Preparing for AI/ML Internships
+```yaml
+Name: Shivansh Bajaj
+
+Education:
+  B.Tech CSE (AI & ML)
+
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Software Engineering
+
+Languages:
+  - Python
+  - Java
+  - C
+
+Currently Learning:
+  - Machine Learning
+  - Data Structures & Algorithms
+  - Backend Development
+  - AI Engineering
+```
+
+I'm passionate about building AI-powered software that solves real-world problems. My goal is to become an AI Engineer by combining strong software engineering fundamentals with practical machine learning experience.
+
+---
+
+# 🎯 Current Mission
+
+- 🚀 Build **Orbit** into a production-ready productivity platform
+- 🤖 Develop impactful AI/ML applications
+- 💻 Solve 300+ DSA problems
+- 🌍 Contribute to Open Source
+- 💼 Secure my first AI/ML Internship
+
+---
+
+# 🧠 Tech Arsenal
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css&perline=5"/>
+</p>
+
+## AI & Machine Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4"/>
+</p>
+
+---
+
+# 🚀 Featured Project
+
+# Orbit
+
+> AI-powered Productivity Platform for Students & Developers
+
+*(Coming soon: screenshot and live demo.)*
+
+### Features
+
+- 📅 Smart Task Management
+- 🎯 XP & Achievement System
+- 📚 Learning Resources
+- 📝 Notes & Attachments
+- 📊 Progress Analytics
+- 🤖 AI Recommendations
+
+---
+
+# ⭐ Other Projects
+
+## 🎮 AI Gesture Control
+
+Control applications using hand gestures with OpenCV and MediaPipe.
+
+**Tech Used**
+
+Python • OpenCV • MediaPipe
+
+---
+
+## 💳 Credit Risk Prediction
+
+Machine Learning model for assessing customer creditworthiness.
+
+---
+
+## 🏠 House Price Predictor
+
+Regression-based ML application for estimating house prices.
+
+---
+
+# 📊 Developer Dashboard
+
+## GitHub Metrics
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/main/github-metrics.svg"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanshbajaj1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajaj1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shivanshbajaj1&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshbajaj1&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+- Java
+- Backend Development
+- Docker
+- Cloud Fundamentals
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Solve **300+ DSA Problems**
-- ✅ Build **10+ Production Ready Projects**
-- ✅ Land my first AI/ML Internship
-- ✅ Contribute to Open Source
-- ✅ Reach 500+ GitHub Contributions
+- [ ] Solve 300+ DSA Problems
+- [ ] Complete Orbit
+- [ ] Build 5 Production AI Projects
+- [ ] Contribute to Open Source
+- [ ] Secure an AI/ML Internship
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:shivanshbajaj276@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -58,215 +233,21 @@ My goal is to become an **AI Engineer** and contribute to impactful products tha
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Shivanshbajaj1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://shivanshbajaj1.github.io/portfolio-website/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
 </p>
 
-📧 **Email:** shivanshbajaj276@gmail.com
-
 ---
 
-# 💻 Tech Stack
+# 💬 Quote
 
-
-## 💻 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css&perline=5" />
-</p>
-
-## 🤖 AI / ML
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### Libraries & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow"/>
-</p>
-
-- NumPy
-- Pandas
-- Scikit-learn
-- Streamlit
-- MediaPipe
-
-## 🛠️ Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,sqlite&perline=5" />
-</p>
-
-# 🚀 Featured Project
-
-# 🌌 Orbit
-
-### AI-Powered Productivity Platform
-
-Orbit helps students organize projects, tasks, learning resources, notes, and progress while making learning more engaging through AI-powered features.
-
-### Features
-
-- ✅ Project Management
-- ✅ Task Tracking
-- ✅ AI Assistance
-- ✅ Learning Resources
-- ✅ Notes & Attachments
-- ✅ XP & Achievement System
-- ✅ Productivity Analytics
-
-**Tech Stack**
-
-- Python
-- Streamlit
-- SQLite
-- Machine Learning
-
-🚧 Currently Under Development
-
----
-
-# ⭐ Other Projects
-
-## 🎮 AI Gesture Control System
-
-Control your PC using hand gestures powered by OpenCV and MediaPipe.
-
-- Hand Tracking
-- Gesture Recognition
-- Browser Control
-- Volume & Brightness Control
-
----
-
-## 💳 Credit Risk Prediction
-
-Machine Learning model that predicts customer creditworthiness using financial indicators.
-
----
-
-## 🏠 House Price Predictor
-
-Predicts house prices using regression algorithms and data preprocessing techniques.
-
----
-
-## 🐍 Python Projects
-
-Collection of automation scripts, mini projects, and beginner-friendly applications.
-
----
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws&perline=2" />
-</p>
-
-# 🏆 Coding Profiles
-
-Coming Soon
-
-- LeetCode
-- GeeksforGeeks
-- HackerRank
-- CodeChef
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanshbajaj1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajaj1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
----
-
-# 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/main/github-metrics.svg" width="100%" />
-
-</div>
-
----
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shivanshbajaj1&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshbajaj1&theme=tokyo-night"/>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shivanshbajaj1&theme=tokyonight&row=1&column=6"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# ⚡ Fun Facts
-
-- 🤖 I enjoy building AI applications that solve real-world problems.
-- 💻 I love turning ideas into software.
-- 🎮 Football and gaming enthusiast.
-- 📚 Learning something new every single day.
-
----
-
-# 💡 Quote
-
-> **"The best way to predict the future is to build it."**
+> *"The best way to predict the future is to build it."*
 
 ---
 
 <div align="center">
 
-## ⭐ If you like my work, consider starring my repositories!
+## ⭐ Thanks for visiting my profile ⭐
 
-### Learn • Build • Innovate
+### Learn • Build • Innovate • Repeat
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=footer"/>
 
