@@ -444,31 +444,55 @@ Personal portfolio showcasing projects, skills, certifications and experience.
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Exploring
 
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-- Java
-- Backend Development
-- Docker
-- Cloud Fundamentals
+<div align="center">
 
----
+| 🧠 AI & ML | ☁️ Cloud | 💻 Development |
+|:----------:|:--------:|:--------------:|
+| Machine Learning | AWS Cloud | Backend Development |
+| Deep Learning | Docker | Data Structures & Algorithms |
+| Computer Vision | Linux | System Design Fundamentals |
 
-# 🎯 2026 Goals
-
-- [ ] Solve 300+ DSA Problems
-- [ ] Complete Orbit
-- [ ] Build 5 Production AI Projects
-- [ ] Contribute to Open Source
-- [ ] Secure an AI/ML Internship
+</div>
 
 ---
 
-# 📫 Connect With Me
+# 🎯 2026 Roadmap
 
-<p align="center">
+<div align="center">
+
+| Goal | Progress |
+|:-----|:-------:|
+| 🚀 Launch Orbit v1 | ⏳ In Progress |
+| 💻 Solve 300+ LeetCode Problems | ⏳ In Progress |
+| 🤖 Build 5 AI/ML Projects | ⏳ In Progress |
+| ☁️ Strengthen AWS Cloud Skills | ⏳ In Progress |
+| 🌍 Contribute to Open Source | 🎯 Planned |
+| 💼 Secure an AI/ML Internship | 🎯 Target |
+
+</div>
+
+---
+
+# 📊 Beyond Coding
+
+<div align="center">
+
+| 🌟 What Drives Me |
+|:------------------|
+| 🤖 Building AI solutions for real-world problems |
+| 📚 Learning something new every day |
+| 🚀 Turning ideas into practical software |
+| 🌍 Contributing to the developer community |
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
 
 <a href="mailto:shivanshbajaj276@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -478,22 +502,56 @@ Personal portfolio showcasing projects, skills, certifications and experience.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://github.com/Shivanshbajaj1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ShivanshBajaj1/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 💬 Quote
+# 💬 Favorite Quote
 
-> *"The best way to predict the future is to build it."*
+<div align="center">
+
+> **"The best way to predict the future is to build it."**
+
+</div>
+
+---
+
+# 📈 Profile Summary
+
+```text
+👨‍💻 AI & Machine Learning Enthusiast
+
+🧠 Passionate about Computer Vision
+
+💻 Building intelligent software with Python
+
+☁️ Exploring Cloud Technologies
+
+🚀 Always Learning. Always Building.
+```
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile ⭐
+## ⭐ Thanks for Visiting!
 
-### Learn • Build • Innovate • Repeat
+If you like my work or found something interesting,
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=footer"/>
+consider ⭐ starring a repository or connecting with me on LinkedIn.
+
+### 🚀 Learn • Build • Innovate • Repeat
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=130&section=footer"/>
 
 </div>
