@@ -1,6 +1,5 @@
 <div align="center"> 
-  <img src="C:\Users\Shivansh\Downloads\ChatGPT Image Jun 21, 2026, 02_40_54 PM.png" width="100%"/> 
-  
+<img src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/main/banner.png" width="100%">  
   # 👋 Hi, I'm Shivansh Bajaj 
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;Python+Developer;Computer+Vision+Explorer;Building+Real-World+Projects;Open+to+Internship+Opportunities" /> 
