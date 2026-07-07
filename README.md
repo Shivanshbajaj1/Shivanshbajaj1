@@ -309,53 +309,138 @@ Personal portfolio showcasing projects, skills, certifications and experience.
 
 # 📊 Developer Dashboard
 
-## GitHub Metrics
+# 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/main/github-metrics.svg"/>
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivanshbajaj1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-## GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajaj1&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanshbajaj1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajaj1&layout=compact&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img width="80%" src="https://streak-stats.demolab.com?user=Shivanshbajaj1&theme=tokyonight&hide_border=true"/>
 
----
+</div>
 
-## GitHub Streak
+<br>
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shivanshbajaj1&theme=tokyonight&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshbajaj1&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## Activity Graph
+# 📈 GitHub Metrics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshbajaj1&theme=tokyo-night"/>
+<img width="95%" src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/main/github-metrics.svg"/>
 
-</p>
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/output/github-contribution-grid-snake.svg"/>
+<img width="95%" src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/output/github-contribution-grid-snake.svg"/>
 
-</p>
+</div>
+
+---
+
+# 🏆 GitHub Highlights
+
+<div align="center">
+
+| 🚀 Focus | 📊 Status |
+|:---------|:---------:|
+| Artificial Intelligence | ✅ |
+| Machine Learning | ✅ |
+| Computer Vision | ✅ |
+| Python Development | ✅ |
+| AWS Cloud | 🚧 |
+| Open Source | 🚧 |
+| Backend Development | 🚧 |
+
+</div>
+
+---
+
+# 🌐 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/Shivanshbajaj1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ShivanshBajaj1/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivansh-bajaj-a433b7371/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shivanshbajaj276@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Current Focus
+
+```text
+🧠 Artificial Intelligence
+████████████████████ 100%
+
+🤖 Machine Learning
+█████████████████░░░ 85%
+
+👁️ Computer Vision
+████████████████░░░░ 80%
+
+☁️ AWS Cloud
+███████████░░░░░░░░░ 55%
+
+💻 Data Structures & Algorithms
+█████████████░░░░░░░ 65%
+
+⚙️ Backend Development
+██████████░░░░░░░░░░ 50%
+```
+
+---
+
+# 📜 Certifications & Learning
+
+### ☁️ Cloud
+
+- AWS Cloud Practitioner (CLF-C02) Learning Journey
+- AWS Hands-on Labs
+
+### 🤖 Artificial Intelligence
+
+- Machine Learning
+- Computer Vision
+- Data Analysis
+
+### 💻 Software Development
+
+- Data Structures & Algorithms
+- Backend Development
+- Git & GitHub
 
 ---
 
