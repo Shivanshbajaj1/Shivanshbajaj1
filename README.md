@@ -393,22 +393,17 @@ Personal portfolio showcasing projects, skills, certifications and experience.
 
 ```text
 🧠 Artificial Intelligence
-████████████████████ 100%
 
 🤖 Machine Learning
-█████████████████░░░ 85%
 
 👁️ Computer Vision
-████████████████░░░░ 80%
 
 ☁️ AWS Cloud
-███████████░░░░░░░░░ 55%
 
 💻 Data Structures & Algorithms
-█████████████░░░░░░░ 65%
 
 ⚙️ Backend Development
-██████████░░░░░░░░░░ 50%
+
 ```
 
 ---
