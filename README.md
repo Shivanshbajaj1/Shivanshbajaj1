@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL" width="100%" />
+<img src="banner.png" width="100%" />
 
 # Shivansh Bajaj
 
