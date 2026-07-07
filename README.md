@@ -97,46 +97,213 @@ Currently, I'm focused on Computer Vision, Backend Development, and Cloud techno
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
-# Orbit
+<table>
+<tr>
+<td width="50%">
 
-> AI-powered Productivity Platform for Students & Developers
+## 🌌 Orbit *(In Development)*
 
-*(Coming soon: screenshot and live demo.)*
+> **AI-powered Productivity Platform** designed for students and developers.
 
-### Features
+### ✨ Planned Features
 
 - 📅 Smart Task Management
 - 🎯 XP & Achievement System
 - 📚 Learning Resources
-- 📝 Notes & Attachments
-- 📊 Progress Analytics
 - 🤖 AI Recommendations
+- 📊 Progress Analytics
+- 📝 Notes & Attachments
+
+### 🛠️ Tech Stack
+
+`Python` `FastAPI` `SQLite` `HTML` `CSS`
+
+🔗 **Repository:** *Coming Soon*
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/0B1120/00C2FF?text=Orbit+Preview" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⭐ Other Projects
+<table>
+<tr>
+
+<td width="50%">
 
 ## 🎮 AI Gesture Control
 
-Control applications using hand gestures with OpenCV and MediaPipe.
+Control your computer using hand gestures powered by **OpenCV** and **MediaPipe**.
 
-**Tech Used**
+### ✨ Features
 
-Python • OpenCV • MediaPipe
+- 🖐️ Hand Gesture Recognition
+- 📂 Open Applications
+- 🔊 Volume Control
+- 📸 Screenshot Capture
+- 📄 Presentation Navigation
+- 🔆 Brightness Control
+
+### 🛠️ Tech Stack
+
+`Python` `OpenCV` `MediaPipe`
+
+🔗 **Repository**
+
+https://github.com/Shivanshbajaj1/AI-Gesture-Control-Slides
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/111827/00C2FF?text=Gesture+Control" />
+
+</td>
+
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+
+<td width="50%">
 
 ## 💳 Credit Risk Prediction
 
-Machine Learning model for assessing customer creditworthiness.
+Machine Learning model for predicting customer creditworthiness.
+
+### Highlights
+
+- 📊 Data Analysis
+- 🤖 Classification Models
+- 📈 Performance Evaluation
+- 📉 Data Visualization
+
+### Tech Stack
+
+`Python`
+
+`Scikit-learn`
+
+`Pandas`
+
+`NumPy`
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/111827/00C2FF?text=Credit+Risk" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
+<table>
+<tr>
+
+<td width="50%">
+
 ## 🏠 House Price Predictor
 
-Regression-based ML application for estimating house prices.
+Regression model that predicts housing prices using Machine Learning.
+
+### Highlights
+
+- Data Cleaning
+- Feature Engineering
+- Regression Algorithms
+- Model Evaluation
+
+### Tech Stack
+
+`Python`
+
+`Scikit-learn`
+
+`Pandas`
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/111827/00C2FF?text=House+Price+Prediction" />
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## ☁️ AWS Labs
+
+Hands-on AWS Cloud Practitioner labs and cloud learning projects.
+
+### Topics
+
+- EC2
+- S3
+- IAM
+- VPC
+- CloudWatch
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/111827/00C2FF?text=AWS+Labs" />
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌐 Portfolio Website
+
+Personal portfolio showcasing projects, skills, certifications and experience.
+
+### Built With
+
+- HTML
+- CSS
+- JavaScript
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/600x350/111827/00C2FF?text=Portfolio+Website" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
