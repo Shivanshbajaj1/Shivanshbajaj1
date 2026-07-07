@@ -74,10 +74,24 @@ My goal is to become an **AI Engineer** and contribute to impactful products tha
 
 # 💻 Tech Stack
 
-### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css"/>
+## 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css&perline=5" />
+</p>
+
+## 🤖 AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 ### Libraries & Frameworks
@@ -92,13 +106,11 @@ My goal is to become an **AI Engineer** and contribute to impactful products tha
 - Streamlit
 - MediaPipe
 
-### Tools
+## 🛠️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,sqlite&perline=5" />
 </p>
-
----
 
 # 🚀 Featured Project
 
@@ -159,17 +171,11 @@ Predicts house prices using regression algorithms and data preprocessing techniq
 Collection of automation scripts, mini projects, and beginner-friendly applications.
 
 ---
+## 📚 Currently Learning
 
-# 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-- Java
-- Backend Development
-- System Design Basics
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws&perline=2" />
+</p>
 
 # 🏆 Coding Profiles
 
