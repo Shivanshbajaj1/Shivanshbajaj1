@@ -194,6 +194,17 @@ Coming Soon
 
 ---
 
+---
+
+# 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/main/github-metrics.svg" width="100%" />
+
+</div>
+
+---
 # 🔥 GitHub Streak
 
 <div align="center">
