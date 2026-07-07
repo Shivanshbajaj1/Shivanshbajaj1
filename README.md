@@ -89,14 +89,6 @@ Currently, I'm focused on Computer Vision, Backend Development, and Cloud techno
 
 ---
 
-## Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4"/>
-</p>
-
----
-
 # 🚀 Featured Projects
 
 <table>
