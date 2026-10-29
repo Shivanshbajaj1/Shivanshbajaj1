@@ -1,127 +1,113 @@
 <div align="center">
 
-# ⚡ SHIVANSH BAJAJ
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,45:312E81,75:6D28D9,100:06B6D4&height=145&section=header&text=SHIVANSH%20BAJAJ&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=C%2B%2B%20%E2%80%A2%20DSA%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20BUILDING%20IN%20PUBLIC&descSize=15&descAlignY=70" width="100%" alt="Shivansh Bajaj — C++, DSA and AI/ML"/>
 
-### B.Tech CSE (AI & ML) • C++ & DSA • AI/ML • Building in Public
+<a href="https://github.com/Shivanshbajaj1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/shivansh-bajaj-a433b7371/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://shivanshbajaj1.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+<a href="https://leetcode.com/u/ShivanshBajaj1/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 
-<a href="https://github.com/Shivanshbajaj1">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/shivansh-bajaj-a433b7371/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://shivanshbajaj1.github.io/portfolio-website/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://leetcode.com/u/ShivanshBajaj1/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=I+BUILD.+I+BREAK.+I+LEARN.;C%2B%2B+%7C+DATA+STRUCTURES+%26+ALGORITHMS;AI%2FML+%7C+COMPUTER+VISION+%7C+AUTOMATION;Turning+ideas+into+working+projects." alt="Animated developer tagline"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Learning+DSA%2C+One+Problem+at+a+Time;Building+Practical+AI%2FML+Projects;C%2B%2B+%7C+Python+%7C+Computer+Vision;Build.+Break.+Learn.+Repeat." alt="Typing introduction"/>
+<img src="https://komarev.com/ghpvc/?username=Shivanshbajaj1&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Shivanshbajaj1?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/Shivanshbajaj1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=STARS&color=DB2777" alt="Repository stars"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ◈ WHO AM I?
 
-I'm a Computer Science student specializing in **Artificial Intelligence & Machine Learning** at Graphic Era Deemed to be University. I like building practical projects, learning how things work under the hood, and improving through consistent problem-solving.
-
-- 💻 **Main focus:** C++, Object-Oriented Programming, Data Structures & Algorithms
-- 🛡️ **Current flagship project:** ScamShield — an explainable scam/phishing analysis project
-- 🤖 **Also exploring:** Machine learning, computer vision, automation, and useful developer tools
-- 🎯 **Goal:** Become a stronger software engineer through real projects, DSA practice, and internships
-
-> ⚡ *Less hype. More building, testing, and learning.*
-
-## 🚀 Featured Projects
+I'm a B.Tech Computer Science student specializing in **Artificial Intelligence & Machine Learning** at Graphic Era Deemed to be University. I enjoy solving problems, understanding how software works under the hood, and building useful things instead of keeping ideas on paper.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ ScamShield PBL</h3>
-      <a href="https://github.com/Shivanshbajaj1/ScamShield-PBL"><img src="https://img.shields.io/badge/Explore-ScamShield-7C3AED?style=for-the-badge&logo=github" alt="Explore ScamShield"/></a>
-      <p>An in-progress student project exploring explainable scam and phishing detection across text, URLs, QR codes, and screenshots. Its planned design combines evidence into a risk assessment.</p>
-      <p><code>C++</code> <code>OOP</code> <code>DSA</code> <code>Python</code> <code>Cybersecurity</code></p>
+      <h3>🎯 CURRENT MISSION</h3>
+      <ul>
+        <li>Level up in <b>C++ and DSA</b></li>
+        <li>Build stronger OOP and problem-solving fundamentals</li>
+        <li>Improve and document practical projects</li>
+        <li>Prepare for software engineering internships</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 ML Playground</h3>
-      <a href="https://ml-playground-g3ys9nbggvlkbvpfefmkq5.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-Open_App-2EA44F?style=for-the-badge&logo=streamlit&logoColor=white" alt="ML Playground live demo"/></a>
-      <a href="https://github.com/Shivanshbajaj1/ML-Playground"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" alt="ML Playground source"/></a>
-      <p>An interactive app for uploading CSV data, comparing classification/regression models, reviewing evaluation metrics, and downloading results.</p>
-      <p><code>Python</code> <code>Streamlit</code> <code>Scikit-learn</code> <code>Data Analysis</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🖼️ CIFAKE Image Detector</h3>
-      <a href="https://github.com/Shivanshbajaj1/CIFAKE"><img src="https://img.shields.io/badge/Explore-CIFAKE-2563EB?style=for-the-badge&logo=github" alt="Explore CIFAKE"/></a>
-      <p>A CNN-based project that classifies images as real or AI-generated and includes a Grad-CAM visual explanation and a low-confidence warning.</p>
-      <p><code>Python</code> <code>CNN</code> <code>Grad-CAM</code> <code>Streamlit</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖐️ AI Gesture Control</h3>
-      <a href="https://github.com/Shivanshbajaj1/AI-Gesture-Control-Slides"><img src="https://img.shields.io/badge/Explore-Gesture_Control-0891B2?style=for-the-badge&logo=github" alt="Explore gesture control"/></a>
-      <p>Uses webcam hand tracking to trigger presentation actions. Gesture logic is separated into a testable module.</p>
-      <p><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>Testing</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍽️ FoodLoop AI</h3>
-      <a href="https://github.com/Shivanshbajaj1/FoodLoop-AI"><img src="https://img.shields.io/badge/Explore-FoodLoop-16A34A?style=for-the-badge&logo=github" alt="Explore FoodLoop"/></a>
-      <p>A project concept using meal-demand prediction to help cafeterias and hostels reduce avoidable food overproduction.</p>
-      <p><code>Python</code> <code>Machine Learning</code> <code>Data Analysis</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 LeetCode Solutions</h3>
-      <a href="https://github.com/Shivanshbajaj1/leetcode-solutions"><img src="https://img.shields.io/badge/Explore-Solutions-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="Explore LeetCode solutions"/></a>
-      <p>My topic-organized coding practice repository as I work on algorithms, problem-solving, and interview fundamentals.</p>
-      <p><code>DSA</code> <code>Algorithms</code> <code>Problem Solving</code></p>
+      <h3>⚡ WHAT I LIKE BUILDING</h3>
+      <ul>
+        <li>AI/ML tools with a clear purpose</li>
+        <li>Computer-vision and automation projects</li>
+        <li>Explainable and safer software systems</li>
+        <li>Simple tools that solve real problems</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-### 🧰 More things I've built
-- 📂 [Smart File Organizer](https://github.com/Shivanshbajaj1/Smart-File-Organizer) — organize files by type with logging and undo support.
-- 🌐 [Portfolio Website](https://shivanshbajaj1.github.io/portfolio-website/) — my projects, learning journey, and contact links.
-- 🐍 [DSA in Python](https://github.com/Shivanshbajaj1/dsa-python) · [AI/ML Learning](https://github.com/Shivanshbajaj1/ai-ml-learning)
+> **My rule:** Learn the concept. Build the thing. Test it. Improve it.
 
-## 🛠️ Tech Stack
+## ◈ PROJECTS IN THE SPOTLIGHT
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java&perline=4" alt="C++, C, Python, Java"/>
-
-**Tools & Technologies**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,html,css,js&perline=7" alt="Git, GitHub, VS Code, Linux, HTML, CSS, JavaScript"/>
-
-<img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/MediaPipe-Hand_Tracking-4285F4?style=flat-square" alt="MediaPipe"/>
-<img src="https://img.shields.io/badge/Scikit--learn-Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Streamlit-Interactive_Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<a href="https://github.com/Shivanshbajaj1/ScamShield-PBL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=ScamShield-PBL&theme=tokyonight&hide_border=true" width="49%" alt="ScamShield PBL repository card"/></a>
+<a href="https://github.com/Shivanshbajaj1/ML-Playground"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=ML-Playground&theme=tokyonight&hide_border=true" width="49%" alt="ML Playground repository card"/></a>
+<a href="https://github.com/Shivanshbajaj1/CIFAKE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=CIFAKE&theme=tokyonight&hide_border=true" width="49%" alt="CIFAKE repository card"/></a>
+<a href="https://github.com/Shivanshbajaj1/AI-Gesture-Control-Slides"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=AI-Gesture-Control-Slides&theme=tokyonight&hide_border=true" width="49%" alt="AI Gesture Control repository card"/></a>
+<a href="https://github.com/Shivanshbajaj1/FoodLoop-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=FoodLoop-AI&theme=tokyonight&hide_border=true" width="49%" alt="FoodLoop AI repository card"/></a>
+<a href="https://github.com/Shivanshbajaj1/leetcode-solutions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=leetcode-solutions&theme=tokyonight&hide_border=true" width="49%" alt="LeetCode solutions repository card"/></a>
 
 </div>
 
-## 📊 GitHub Dashboard
+<details>
+<summary><b>🔎 What each project does</b></summary>
+
+- **[ScamShield PBL](https://github.com/Shivanshbajaj1/ScamShield-PBL)** — an in-progress project exploring explainable scam and phishing analysis, with planned text, URL, QR and screenshot inputs.
+- **[ML Playground](https://github.com/Shivanshbajaj1/ML-Playground)** — upload datasets, compare classification and regression models, inspect evaluation outputs and download results. [Open live demo](https://ml-playground-g3ys9nbggvlkbvpfefmkq5.streamlit.app/).
+- **[CIFAKE](https://github.com/Shivanshbajaj1/CIFAKE)** — CNN-based real-versus-AI-generated image classification with a Grad-CAM explanation and low-confidence warning.
+- **[AI Gesture Control](https://github.com/Shivanshbajaj1/AI-Gesture-Control-Slides)** — webcam hand tracking for presentation actions, with testable gesture logic.
+- **[FoodLoop AI](https://github.com/Shivanshbajaj1/FoodLoop-AI)** — a project exploring meal-demand prediction to help reduce avoidable food overproduction.
+- **[LeetCode Solutions](https://github.com/Shivanshbajaj1/leetcode-solutions)** — topic-organized coding practice as I strengthen algorithmic problem-solving.
+
+**More:** [Smart File Organizer](https://github.com/Shivanshbajaj1/Smart-File-Organizer) · [Portfolio Website](https://github.com/Shivanshbajaj1/portfolio-website) · [DSA in Python](https://github.com/Shivanshbajaj1/dsa-python) · [AI/ML Learning](https://github.com/Shivanshbajaj1/ai-ml-learning)
+
+</details>
+
+## ◈ TECH STACK
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivanshbajaj1&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajaj1&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most-used languages"/>
+
+### 💻 LANGUAGES
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java&perline=4" alt="C++, C, Python and Java"/>
+
+### 🧩 TOOLS & TECHNOLOGIES
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,html,css,js&perline=7" alt="Git, GitHub, VS Code, Linux, HTML, CSS and JavaScript"/>
+
+<img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/MediaPipe-Hand_Tracking-4285F4?style=for-the-badge" alt="MediaPipe"/>
+<img src="https://img.shields.io/badge/Scikit--learn-Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Streamlit-Interactive_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+
+</div>
+
+## ◈ GITHUB ANALYTICS
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Shivanshbajaj1&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=C084FC" alt="GitHub stats"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajaj1&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE" alt="Most-used languages"/>
   <br/>
-  <img width="65%" src="https://streak-stats.demolab.com?user=Shivanshbajaj1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img width="72%" src="https://streak-stats.demolab.com?user=Shivanshbajaj1&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=FB7185&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
+  <br/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshbajaj1&theme=tokyo-night&hide_border=true&area=true&color=22D3EE&line=C084FC&point=FB7185&bg_color=0D1117" alt="GitHub activity graph"/>
 </div>
 
-### 🐍 Contribution Snake
+## ◈ THE CONTRIBUTION SNAKE 🐍
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation showing my GitHub contribution graph" src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation eating the GitHub contribution graph" src="https://raw.githubusercontent.com/Shivanshbajaj1/Shivanshbajaj1/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </div>
 
@@ -129,10 +115,13 @@ I'm a Computer Science student specializing in **Artificial Intelligence & Machi
 
 <div align="center">
 
-### 🌱 Learn something. Build something. Repeat.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,45:6D28D9,100:09090B&height=3&section=footer" width="100%" alt=""/>
 
-<a href="https://github.com/Shivanshbajaj1?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories"/></a>
+### 🚀 BUILD WITH INTENT. LEARN OUT LOUD. KEEP SHIPPING.
 
-<img src="https://komarev.com/ghpvc/?username=Shivanshbajaj1&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/Shivanshbajaj1?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+<a href="https://www.linkedin.com/in/shivansh-bajaj-a433b7371/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+
+<sub>Designed with curiosity • Driven by consistency • Powered by coffee ☕</sub>
 
 </div>
