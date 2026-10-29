@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,45:312E81,75:6D28D9,100:06B6D4&height=145&section=header&text=SHIVANSH%20BAJAJ&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=C%2B%2B%20%E2%80%A2%20DSA%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20BUILDING%20IN%20PUBLIC&descSize=15&descAlignY=70" width="100%" alt="Shivansh Bajaj — C++, DSA and AI/ML"/>
+# ⚡ SHIVANSH BAJAJ
+
+### B.Tech CSE (AI & ML) · C++ & DSA · AI/ML Projects
 
 <a href="https://github.com/Shivanshbajaj1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/shivansh-bajaj-a433b7371/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
