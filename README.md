@@ -75,6 +75,24 @@ I'm a B.Tech Computer Science student specializing in **Artificial Intelligence 
 
 </details>
 
+
+
+## ◈ INTERNSHIP PROJECT WORK
+
+<div align="center">
+
+<a href="https://github.com/Shivanshbajaj1/CodeAlpha_EmailExtractor"><img src="https://img.shields.io/badge/CodeAlpha-Python_Internship_Project-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="CodeAlpha Python internship project"/></a>
+<a href="https://github.com/Shivanshbajaj1/CodeAlpha_BasicChatbot"><img src="https://img.shields.io/badge/Basic_Chatbot-Project_Repository-0891B2?style=for-the-badge&logo=python&logoColor=white" alt="CodeAlpha basic chatbot"/></a>
+<a href="https://github.com/Shivanshbajaj1/Cognifyz-Python-Internship"><img src="https://img.shields.io/badge/Cognifyz-Python_Task_Repository-16A34A?style=for-the-badge&logo=python&logoColor=white" alt="Cognifyz Python task repository"/></a>
+
+</div>
+
+- **CodeAlpha — Python Programming Internship project work:** [Email Extractor](https://github.com/Shivanshbajaj1/CodeAlpha_EmailExtractor) and [Basic Chatbot](https://github.com/Shivanshbajaj1/CodeAlpha_BasicChatbot).
+- **Cognifyz Technologies — Python development internship tasks:** [Task repository](https://github.com/Shivanshbajaj1/Cognifyz-Python-Internship) documenting beginner-to-intermediate Python exercises.
+
+*I link the public project evidence here and keep certifications, dates, and formal employment claims separate unless I can verify them.*
+
+
 ## ◈ TECH STACK
 
 <div align="center">
