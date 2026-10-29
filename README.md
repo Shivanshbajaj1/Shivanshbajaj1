@@ -77,21 +77,63 @@ I'm a B.Tech Computer Science student specializing in **Artificial Intelligence 
 
 
 
-## ◈ INTERNSHIP PROJECT WORK
+## ◈ EXPERIENCE & COMMUNITY
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 XTRAGRAD · AICTE</h3>
+      <b>AI Internship — 2026 · In progress</b>
+      <p>Current project work includes CIFAKE image classification and explainability using a CNN, Grad-CAM and Streamlit, plus customer-review sentiment analysis with text preprocessing and TF-IDF.</p>
+      <a href="https://github.com/Shivanshbajaj1/CIFAKE">CIFAKE project ↗</a><br/>
+      <a href="https://github.com/Shivanshbajaj1/Customer_Review_Sentiment_Analysis_Submission">Sentiment analysis ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 1M1B · AI for Sustainability</h3>
+      <b>Virtual Internship — completed 2026</b>
+      <p>Completed the 1M1B AI for Sustainability Virtual Internship, supported by AICTE and in collaboration with IBM SkillsBuild. Focus areas included responsible AI, Agentic AI/RAG concepts and sustainability-focused solutions.</p>
+      <a href="https://www.linkedin.com/in/shivansh-bajaj-a433b7371/">LinkedIn profile ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>☁️ AWS Student Builder Group · Graphic Era</h3>
+      Selected as a member of the university's AWS Student Builder Group. Through the community's DataCamp access, I completed the Introduction to Data Literacy course.
+    </td>
+  </tr>
+</table>
+
+## ◈ CERTIFICATIONS & TRAINING BADGES
 
 <div align="center">
 
-<a href="https://github.com/Shivanshbajaj1/CodeAlpha_EmailExtractor"><img src="https://img.shields.io/badge/CodeAlpha-Python_Internship_Project-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="CodeAlpha Python internship project"/></a>
-<a href="https://github.com/Shivanshbajaj1/CodeAlpha_BasicChatbot"><img src="https://img.shields.io/badge/Basic_Chatbot-Project_Repository-0891B2?style=for-the-badge&logo=python&logoColor=white" alt="CodeAlpha basic chatbot"/></a>
-<a href="https://github.com/Shivanshbajaj1/Cognifyz-Python-Internship"><img src="https://img.shields.io/badge/Cognifyz-Python_Task_Repository-16A34A?style=for-the-badge&logo=python&logoColor=white" alt="Cognifyz Python task repository"/></a>
+<img src="https://img.shields.io/badge/IBM-Getting_Started_with_Generative_AI-7C3AED?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Generative AI credential"/>
+<img src="https://img.shields.io/badge/Microsoft-Introduction_to_AI_Concepts-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AI concepts credential"/>
+<img src="https://img.shields.io/badge/Forage-Tata_GenAI_Data_Analytics-0891B2?style=for-the-badge" alt="Forage Tata GenAI Data Analytics job simulation"/>
+<img src="https://img.shields.io/badge/AWS-Well--Architected_Proficient-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Well-Architected Proficient badge"/>
+<img src="https://img.shields.io/badge/Udemy-Machine_Learning_%26_AI-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Machine Learning and Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Udemy-Python_Programming-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Python Programming"/>
+<img src="https://img.shields.io/badge/Udemy-Java_Fundamentals-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Java Fundamentals"/>
+<img src="https://img.shields.io/badge/Udemy-Canva_%26_AI_Workflows-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Canva and AI course"/>
+<img src="https://img.shields.io/badge/Udemy-Graphic_Design_%26_Video-9333EA?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy design and video editing course"/>
+<img src="https://img.shields.io/badge/AWS_Training-Cloud_Essentials_(Expired_Dec_2025)-71717A?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Historical AWS Cloud Essentials training badge"/>
 
 </div>
 
-- **CodeAlpha — Python Programming Internship project work:** [Email Extractor](https://github.com/Shivanshbajaj1/CodeAlpha_EmailExtractor) and [Basic Chatbot](https://github.com/Shivanshbajaj1/CodeAlpha_BasicChatbot).
-- **Cognifyz Technologies — Python development internship tasks:** [Task repository](https://github.com/Shivanshbajaj1/Cognifyz-Python-Internship) documenting beginner-to-intermediate Python exercises.
+| Credential | Issuer | Listed issue date |
+|---|---|---|
+| Getting Started with Generative AI | IBM | Jun 2026 |
+| Introduction to AI Concepts | Microsoft | Jun 2026 |
+| Tata — GenAI Powered Data Analytics Job Simulation | Forage | Jun 2026 |
+| Well-Architected Proficient | Amazon Web Services | Feb 2026 |
+| Machine Learning and Artificial Intelligence | Udemy | Jan 2026 |
+| Java Fundamentals Course for Beginners | Udemy | Dec 2025 |
+| Python Programming: The Complete Course for Success | Udemy | Nov 2025 |
+| Design with Canva & AI: A Scalable Workflow for Creators | Udemy | Nov 2025 |
+| Canva for Social Media Graphic Design and Video Editing | Udemy | Jul 2025 |
+| AWS Knowledge: Cloud Essentials Training Badge | AWS | Oct 2025 · expired Dec 2025 |
 
-*I link the public project evidence here and keep certifications, dates, and formal employment claims separate unless I can verify them.*
-
+The Forage credential ID listed on LinkedIn is `bAndTuWTZNq7RQRx`. The individual credential links are maintained on my [LinkedIn profile](https://www.linkedin.com/in/shivansh-bajaj-a433b7371/). These badges and training courses are listed as credentials/course completions, not as professional licences.
 
 ## ◈ TECH STACK
 
