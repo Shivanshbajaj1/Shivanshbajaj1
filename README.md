@@ -50,31 +50,66 @@ I'm a B.Tech Computer Science student specializing in **Artificial Intelligence 
 
 ## ◈ PROJECTS IN THE SPOTLIGHT
 
-<div align="center">
-
-<a href="https://github.com/Shivanshbajaj1/ScamShield-PBL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=ScamShield-PBL&theme=tokyonight&hide_border=true" width="49%" alt="ScamShield PBL repository card"/></a>
-<a href="https://github.com/Shivanshbajaj1/ML-Playground"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=ML-Playground&theme=tokyonight&hide_border=true" width="49%" alt="ML Playground repository card"/></a>
-<a href="https://github.com/Shivanshbajaj1/CIFAKE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=CIFAKE&theme=tokyonight&hide_border=true" width="49%" alt="CIFAKE repository card"/></a>
-<a href="https://github.com/Shivanshbajaj1/AI-Gesture-Control-Slides"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=AI-Gesture-Control-Slides&theme=tokyonight&hide_border=true" width="49%" alt="AI Gesture Control repository card"/></a>
-<a href="https://github.com/Shivanshbajaj1/FoodLoop-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=FoodLoop-AI&theme=tokyonight&hide_border=true" width="49%" alt="FoodLoop AI repository card"/></a>
-<a href="https://github.com/Shivanshbajaj1/leetcode-solutions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshbajaj1&repo=leetcode-solutions&theme=tokyonight&hide_border=true" width="49%" alt="LeetCode solutions repository card"/></a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shivanshbajaj1/ScamShield-PBL">🛡️ ScamShield PBL</a></h3>
+      <p><strong>FLAGSHIP · IN PROGRESS</strong></p>
+      <p>Explainable scam and phishing analysis. The current direction expands toward QR codes and screenshots, with evidence-led risk explanations and a C++ OOP/DSA core.</p>
+      <p><strong>Focus:</strong> <code>C++</code> <code>OOP</code> <code>DSA</code> <code>Cybersecurity</code></p>
+      <p><a href="https://github.com/Shivanshbajaj1/ScamShield-PBL">Open repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shivanshbajaj1/ML-Playground">🧪 ML Playground</a></h3>
+      <p><strong>INTERACTIVE APP · LIVE DEMO</strong></p>
+      <p>Upload CSV datasets, compare classification and regression models, review evaluation metrics, and download predictions.</p>
+      <p><strong>Focus:</strong> <code>Python</code> <code>Streamlit</code> <code>Scikit-learn</code></p>
+      <p><a href="https://ml-playground-g3ys9nbggvlkbvpfefmkq5.streamlit.app/">Try live demo ↗</a> · <a href="https://github.com/Shivanshbajaj1/ML-Playground">Source code ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shivanshbajaj1/CIFAKE">🖼️ CIFAKE Image Detector</a></h3>
+      <p><strong>COMPUTER VISION</strong></p>
+      <p>CNN-based real-versus-AI-generated image classification with Grad-CAM visual explanations and a warning for low-confidence predictions.</p>
+      <p><strong>Focus:</strong> <code>Python</code> <code>CNN</code> <code>Grad-CAM</code> <code>Streamlit</code></p>
+      <p><a href="https://github.com/Shivanshbajaj1/CIFAKE">Open repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shivanshbajaj1/AI-Gesture-Control-Slides">🖐️ AI Gesture Control</a></h3>
+      <p><strong>COMPUTER VISION · AUTOMATION</strong></p>
+      <p>Use webcam hand tracking to control presentation actions, with gesture logic structured for testing and iteration.</p>
+      <p><strong>Focus:</strong> <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code></p>
+      <p><a href="https://github.com/Shivanshbajaj1/AI-Gesture-Control-Slides">Open repository ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shivanshbajaj1/FoodLoop-AI">🍽️ FoodLoop AI</a></h3>
+      <p><strong>APPLIED AI / ML</strong></p>
+      <p>A project exploring meal-demand prediction to help cafeterias and hostels reduce avoidable food overproduction.</p>
+      <p><strong>Focus:</strong> <code>Python</code> <code>Machine Learning</code> <code>Data Analysis</code></p>
+      <p><a href="https://github.com/Shivanshbajaj1/FoodLoop-AI">Open repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shivanshbajaj1/leetcode-solutions">🧠 LeetCode Solutions</a></h3>
+      <p><strong>PROBLEM SOLVING</strong></p>
+      <p>My coding-practice repository as I build stronger algorithmic thinking and software engineering interview fundamentals.</p>
+      <p><strong>Focus:</strong> <code>Algorithms</code> <code>Arrays</code> <code>Hashing</code> <code>DSA</code></p>
+      <p><a href="https://github.com/Shivanshbajaj1/leetcode-solutions">Open repository ↗</a></p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>🔎 What each project does</b></summary>
+<summary><strong>More projects and learning repositories</strong></summary>
 
-- **[ScamShield PBL](https://github.com/Shivanshbajaj1/ScamShield-PBL)** — an in-progress project exploring explainable scam and phishing analysis, with planned text, URL, QR and screenshot inputs.
-- **[ML Playground](https://github.com/Shivanshbajaj1/ML-Playground)** — upload datasets, compare classification and regression models, inspect evaluation outputs and download results. [Open live demo](https://ml-playground-g3ys9nbggvlkbvpfefmkq5.streamlit.app/).
-- **[CIFAKE](https://github.com/Shivanshbajaj1/CIFAKE)** — CNN-based real-versus-AI-generated image classification with a Grad-CAM explanation and low-confidence warning.
-- **[AI Gesture Control](https://github.com/Shivanshbajaj1/AI-Gesture-Control-Slides)** — webcam hand tracking for presentation actions, with testable gesture logic.
-- **[FoodLoop AI](https://github.com/Shivanshbajaj1/FoodLoop-AI)** — a project exploring meal-demand prediction to help reduce avoidable food overproduction.
-- **[LeetCode Solutions](https://github.com/Shivanshbajaj1/leetcode-solutions)** — topic-organized coding practice as I strengthen algorithmic problem-solving.
-
-**More:** [Smart File Organizer](https://github.com/Shivanshbajaj1/Smart-File-Organizer) · [Portfolio Website](https://github.com/Shivanshbajaj1/portfolio-website) · [DSA in Python](https://github.com/Shivanshbajaj1/dsa-python) · [AI/ML Learning](https://github.com/Shivanshbajaj1/ai-ml-learning)
+- 📂 [Smart File Organizer](https://github.com/Shivanshbajaj1/Smart-File-Organizer) — file sorting, duplicate-name handling, move logs and undo support.
+- 🌐 [Portfolio Website](https://github.com/Shivanshbajaj1/portfolio-website) — my responsive personal website.
+- 🐍 [DSA in Python](https://github.com/Shivanshbajaj1/dsa-python)
+- 🧪 [AI/ML Learning](https://github.com/Shivanshbajaj1/ai-ml-learning)
 
 </details>
-
 
 
 ## ◈ EXPERIENCE & COMMUNITY
@@ -152,16 +187,37 @@ The Forage credential ID listed on LinkedIn is `bAndTuWTZNq7RQRx`. The individua
 
 </div>
 
-## ◈ GITHUB ANALYTICS
+## ◈ GITHUB ACTIVITY
 
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Shivanshbajaj1&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=C084FC" alt="GitHub stats"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshbajaj1&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE" alt="Most-used languages"/>
-  <br/>
-  <img width="72%" src="https://streak-stats.demolab.com?user=Shivanshbajaj1&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=FB7185&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
-  <br/>
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshbajaj1&theme=tokyo-night&hide_border=true&area=true&color=22D3EE&line=C084FC&point=FB7185&bg_color=0D1117" alt="GitHub activity graph"/>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 Explore my work</h3>
+      <p>Browse source code, project documentation, and the repositories behind the demos.</p>
+      <p><a href="https://github.com/Shivanshbajaj1?tab=repositories">All repositories ↗</a></p>
+      <p><a href="https://github.com/Shivanshbajaj1?tab=overview">Profile and contributions ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Current focus</h3>
+      <p><strong>C++ · OOP · Data Structures &amp; Algorithms</strong></p>
+      <p>Alongside ScamShield, I'm improving fundamentals, making projects easier to run, and documenting what I've learned.</p>
+      <p><a href="https://github.com/Shivanshbajaj1/ScamShield-PBL">Follow ScamShield ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧰 Follow development</h3>
+      <p>Use GitHub's own activity and repository pages rather than an external stats-card service that may be unavailable.</p>
+      <p><a href="https://github.com/Shivanshbajaj1?tab=overview">View activity ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Connect</h3>
+      <p>Open to software engineering and AI/ML internships, collaborations, and meaningful project work.</p>
+      <p><a href="https://www.linkedin.com/in/shivansh-bajaj-a433b7371/">LinkedIn ↗</a> · <a href="https://shivanshbajaj1.github.io/portfolio-website/">Portfolio ↗</a></p>
+    </td>
+  </tr>
+</table>
+
 
 ## ◈ THE CONTRIBUTION SNAKE 🐍
 
